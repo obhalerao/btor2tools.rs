@@ -12,5 +12,5 @@ edition       = "2018"
 version       ="1.1.0"
 
 [dependencies]
-btor2tools-sys = "~1.0.0"
+btor2tools-sys = {git = "https://github.com/obhalerao/btor2tools-sys"}
 thiserror = "~1.0.22"

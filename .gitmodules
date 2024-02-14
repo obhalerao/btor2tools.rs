@@ -1,3 +1,5 @@
 [submodule "btor2tools"]
 	path = btor2tools
-	url = https://github.com/boolector/btor2tools
+	url = https://github.com/obhalerao/btor2tools
+
+
